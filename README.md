@@ -1,7 +1,7 @@
 # Movie-Review-Prediction-Sentiment-Analysis
 
-### use machine learning models to predict amazon movie reviews ~86% accuracy 
-- scikit-learn model 
+### used machine learning models to predict amazon movie reviews (~86% accuracy)
+- scikit-learn python package 
 
 #### data source:http://jmcauley.ucsd.edu/data/amazon/
 
