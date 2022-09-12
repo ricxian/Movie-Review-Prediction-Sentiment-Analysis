@@ -1,5 +1,8 @@
 # Movie-Review-Prediction-Sentiment-Analysis
 
+### use machine learning models to predict amazon movie reviews ~86% accuracy 
+- scikit-learn model 
+
 #### data source:http://jmcauley.ucsd.edu/data/amazon/
 
 Ups and downs: Modeling the visual evolution of fashion trends with one-class collaborative filtering
